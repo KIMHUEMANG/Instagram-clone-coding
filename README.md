@@ -1,1 +1,1 @@
-# Instagram-clone-coding
+# 인스타 클론코딩(겉에만)
