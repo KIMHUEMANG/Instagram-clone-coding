@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(250, 243, 243, 0.827);
+    
+}
+
+.menu{
+    width: 4000px;
+    height: 58px;
+    position:fixed;
+    background-color: white;
+    border-bottom: 0.3px solid rgb(220, 215, 215);
+    z-index: 1;
+    overflow : auto;
+}
+
+.instamark{
+    position:fixed;
+    top:5px;
+    left:253px;
+    z-index: auto;
+}
+
+.search{
+    position:fixed;
+    left: 555px;
+    top:9px;
+    z-index: auto;
+}
+
+.house{
+    position:fixed;
+    left: 888px;
+    top:7px;
+    z-index: auto;
+}
+
+.dm{
+    position:fixed;
+    left: 947px;
+    top:5px;
+    z-index: auto;
+}
+
+.plus{
+    position:fixed;
+    left:1010px;
+    top:14px;
+    z-index: auto;
+}
+
+.heart{
+    position:fixed;
+    left:1050px;
+    top:16px;
+    z-index: inherit;
+}
+
+.nachim{
+    position:fixed;
+    left:1097px;
+    top: 16px;
+    z-index: auto;
+}
+
+.mypic{
+    position:fixed;
+    left : 1134px;
+    top: 15px;
+    z-index: auto;
+}
+
+.story{
+    position: absolute;
+    left:260px;
+    top:89px;
+    border :1px solid rgba(242, 237, 237, 0.981);
+}
+
+.post1top{
+    position:absolute;
+    left:262px;
+    top:222px;
+}
+
+.post1img{
+    position:absolute;
+    left:262px;
+    top:282px;
+
+}
+
+.post1bot{
+    position:absolute;
+    left:260px;
+    top:882px;
+}
+
+.followside{
+    position:fixed;
+    left:823px;
+    top:55px;
+}
+
+
+.post2top{
+    position:absolute;
+    left:262px;
+    top:1108px;
+}
+
+.post2img{
+    position:absolute;
+    left:262px;
+    top:1168px;
+
+}
+.post2bot{
+    position: absolute;
+    left: 262px;
+    top:1778px;
+}
